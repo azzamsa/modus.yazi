@@ -16,6 +16,14 @@ WCAG AAA compliant
 
 ## 🎨 Installation
 
+### Using ya
+
+```bash
+ya pkg add azzamsa/modus-vivendi
+```
+
+### Manually
+
 ```bash
 # Linux/macOS
 git clone https://github.com/azzamsa/modus-vivendi.yazi.git ~/.config/yazi/flavors/modus-vivendi.yazi
